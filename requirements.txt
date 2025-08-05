@@ -1,2 +1,2 @@
-matplotlib
-plotly-express
+pip install matplotlib
+pip install plotly-express
